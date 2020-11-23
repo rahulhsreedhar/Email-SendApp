@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/Email-SendApp/static/css/main.05a1c75d.chunk.css",
-    "main.js": "/Email-SendApp/static/js/main.fc45874e.chunk.js",
-    "main.js.map": "/Email-SendApp/static/js/main.fc45874e.chunk.js.map",
+    "main.js": "/Email-SendApp/static/js/main.cab5d828.chunk.js",
+    "main.js.map": "/Email-SendApp/static/js/main.cab5d828.chunk.js.map",
     "runtime-main.js": "/Email-SendApp/static/js/runtime-main.0c0542e0.js",
     "runtime-main.js.map": "/Email-SendApp/static/js/runtime-main.0c0542e0.js.map",
     "static/js/2.ff126b10.chunk.js": "/Email-SendApp/static/js/2.ff126b10.chunk.js",
@@ -17,6 +17,6 @@
     "static/js/runtime-main.0c0542e0.js",
     "static/js/2.ff126b10.chunk.js",
     "static/css/main.05a1c75d.chunk.css",
-    "static/js/main.fc45874e.chunk.js"
+    "static/js/main.cab5d828.chunk.js"
   ]
 }

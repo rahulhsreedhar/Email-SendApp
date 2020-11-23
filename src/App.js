@@ -123,7 +123,7 @@ function App() {
           </div>
           <div hidden={!showSpinner} className={classes.spinner}  >  <CircularProgress /></div>
           <div hidden={!showMailSend} className="mailImage">
-            <img src="/sendImage.gif" />
+            <img src="/Email-SendApp/sendImage.gif"/>
           </div>
           <div className="actions">
             <Button
