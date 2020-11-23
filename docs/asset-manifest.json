@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/Email-SendApp/static/css/main.05a1c75d.chunk.css",
+    "main.js": "/Email-SendApp/static/js/main.fc45874e.chunk.js",
+    "main.js.map": "/Email-SendApp/static/js/main.fc45874e.chunk.js.map",
+    "runtime-main.js": "/Email-SendApp/static/js/runtime-main.0c0542e0.js",
+    "runtime-main.js.map": "/Email-SendApp/static/js/runtime-main.0c0542e0.js.map",
+    "static/js/2.ff126b10.chunk.js": "/Email-SendApp/static/js/2.ff126b10.chunk.js",
+    "static/js/2.ff126b10.chunk.js.map": "/Email-SendApp/static/js/2.ff126b10.chunk.js.map",
+    "static/js/3.0b175d6c.chunk.js": "/Email-SendApp/static/js/3.0b175d6c.chunk.js",
+    "static/js/3.0b175d6c.chunk.js.map": "/Email-SendApp/static/js/3.0b175d6c.chunk.js.map",
+    "index.html": "/Email-SendApp/index.html",
+    "static/css/main.05a1c75d.chunk.css.map": "/Email-SendApp/static/css/main.05a1c75d.chunk.css.map",
+    "static/js/2.ff126b10.chunk.js.LICENSE.txt": "/Email-SendApp/static/js/2.ff126b10.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.0c0542e0.js",
+    "static/js/2.ff126b10.chunk.js",
+    "static/css/main.05a1c75d.chunk.css",
+    "static/js/main.fc45874e.chunk.js"
+  ]
+}
